@@ -404,6 +404,29 @@
         font-size: 12px;
     }
 
+
+    /* ------------ */
+    .test_container1{
+        flex-direction: column;
+    }
+
+    .second_part{
+
+    }
+
+    .img_container1 img {
+        width: 40%;
+        aspect-ratio: 1;
+        object-fit: cover;
+    
+    }
+    
+    .questionBig {
+        width: 80%;
+        background: rgba(155, 106, 33, 1);
+    }
+    
+
     /* --------------slider------------- */
     .slidetext {
         text-align: center;
