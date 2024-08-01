@@ -284,7 +284,7 @@
     } */
 
     .show {
-        display: block !important;
+        display: flex;
     }
 
     /* banner */
@@ -410,9 +410,6 @@
         flex-direction: column;
     }
 
-    .second_part{
-
-    }
 
     .img_container1 img {
         width: 40%;
